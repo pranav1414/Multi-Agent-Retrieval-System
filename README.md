@@ -173,5 +173,5 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
 **Video** - https://drive.google.com/drive/folders/1lrJaOTC_vUS99GX806M4zyhHooGAdQDF?usp=drive_link
 
-**Web Link** - 
+**Web Link** - http://10.110.71.35:8502
 
