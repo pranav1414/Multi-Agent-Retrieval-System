@@ -151,7 +151,7 @@ Optimizing vector search and retrieval times as the dataset grows in size and co
 
 **Architecture diagram :**
 
-![image](https://github.com/user-attachments/assets/1d42fc69-8f9d-4f50-83e5-9ea48044e796)
+![image](https://github.com/user-attachments/assets/74ab661c-9878-4c81-8453-e8df3956dac1)
 
 
 **Contribution :**
