@@ -1,3 +1,3 @@
 # Assignment_4
 
-![image](https://github.com/user-attachments/assets/a8aeaf94-b803-455a-89ad-2b2de92a2311)
+![image](https://github.com/user-attachments/assets/1d42fc69-8f9d-4f50-83e5-9ea48044e796)
