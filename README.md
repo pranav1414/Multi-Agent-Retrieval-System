@@ -153,25 +153,3 @@ Optimizing vector search and retrieval times as the dataset grows in size and co
 
 ![image](https://github.com/user-attachments/assets/74ab661c-9878-4c81-8453-e8df3956dac1)
 
-
-**Contribution :**
-
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR 
-ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
-
-| Name            | Contribution %                       |
-|------------------|-------------------------------------|
-| Shubham Agarwal  | 35 %                             |
-| Chinmay Sawant   | 35 %                             |
-| Pranav Sonje     | 30 %                             |
-
-**Documentation files Team_9** 
-
-**Code labs** - https://codelabs-preview.appspot.com/?file_id=1L8iGLikZFFtgpO4CdBcP4Ngjyye7NBj-hNxbv665eo0#0
-
-**Google Doc** - https://docs.google.com/document/d/1L8iGLikZFFtgpO4CdBcP4Ngjyye7NBj-hNxbv665eo0/edit?tab=t.0
-
-**Video** - https://drive.google.com/drive/folders/1lrJaOTC_vUS99GX806M4zyhHooGAdQDF?usp=drive_link
-
-**Web Link** - http://10.110.71.35:8502
-
